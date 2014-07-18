@@ -1,0 +1,7 @@
+name: DiskJockey
+main: net.redspin.Diskjockey.DiskJockey
+version: 1.0
+commands:
+  dj:
+    description: Display DJ info
+    usage: /dj

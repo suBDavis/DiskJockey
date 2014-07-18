@@ -56,7 +56,7 @@ public class DBwrangler {
 		  String dbName = "DiskJockey";
 		  String driver = "com.mysql.jdbc.Driver";
 		  String userName = "DiskJockey"; 
-		  String password = "djuser";
+		  String password = "________";
 		  
 		  try {
 			  Class.forName(driver).newInstance();
